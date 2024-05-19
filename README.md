@@ -21,7 +21,10 @@
     2.Produce example message with kafka-console-producer.
     3.Consume the message with kafka-console consumer.
 
-  # Created Two Spring Boot Projects (DeliveryBoy and EndUser App).
+  # Created Two Spring Boot Projects (DeliveryBoy and EndUser App)
+  
+  <img width="610" alt="Live" src="https://github.com/anjalikhushi/Apache-Kafka-Live-Location-update-SpringBoot/assets/82653640/a7683ae5-79eb-407f-8d88-6ce904bcd069">
+
      
   # Output on console with the help of POSTMAN-
   
