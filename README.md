@@ -26,19 +26,19 @@
   # Output on console with the help of POSTMAN-
   
    # 1.
-   <img width="561" alt="kf" src="https://github.com/anjalikhushi/Apache-Kafka-Live-Location-update-SpringBoot/assets/82653640/909a40ce-194b-4934-b13b-5a0461df302b">
+   <img width="650" alt="kf" src="https://github.com/anjalikhushi/Apache-Kafka-Live-Location-update-SpringBoot/assets/82653640/909a40ce-194b-4934-b13b-5a0461df302b">
    
    # 2.
-   <img width="551" alt="kf1" src="https://github.com/anjalikhushi/Apache-Kafka-Live-Location-update-SpringBoot/assets/82653640/d80070d3-788e-4602-b384-59c738284b15">
+   <img width="650" alt="kf1" src="https://github.com/anjalikhushi/Apache-Kafka-Live-Location-update-SpringBoot/assets/82653640/d80070d3-788e-4602-b384-59c738284b15">
 
 
   # Testing the App with a Live Load of 200K Messages
 
   # 1.
-  <img width="430" alt="kf2" src="https://github.com/anjalikhushi/Apache-Kafka-Live-Location-update-SpringBoot/assets/82653640/4f1d0bae-95aa-414f-91d7-ce7761d9c0cb">
+  <img width="650" alt="kf2" src="https://github.com/anjalikhushi/Apache-Kafka-Live-Location-update-SpringBoot/assets/82653640/4f1d0bae-95aa-414f-91d7-ce7761d9c0cb">
   
   # 2.
-  <img width="476" alt="kf3" src="https://github.com/anjalikhushi/Apache-Kafka-Live-Location-update-SpringBoot/assets/82653640/86798f01-f4cd-46dc-be8e-95c2d921644c">
+  <img width="650" alt="kf3" src="https://github.com/anjalikhushi/Apache-Kafka-Live-Location-update-SpringBoot/assets/82653640/86798f01-f4cd-46dc-be8e-95c2d921644c">
 
 
 
