@@ -1,8 +1,8 @@
 # Apache Kafka
-  Apache Kafka is like a communication system that helps different parts of a computer system exchange data by publishing and subscribing to topics.
-  Kafka is suitable for both offline and online message consumption. Kafka messages are persisted on the disk and replicated within the cluster to prevent data loss.
-  Kafka is built on top of the ZooKeeper synchronization service.
-  Zookeeper is used by Kafka brokers to determine which broker is the leader of a given partition and topic and perform leader elections.
+  1. Apache Kafka is like a communication system that helps different parts of a computer system exchange data by publishing and subscribing to topics.
+  2. Kafka is suitable for both offline and online message consumption. Kafka messages are persisted on the disk and replicated within the cluster to prevent data loss.
+  3. Kafka is built on top of the ZooKeeper synchronization service.
+  4. Zookeeper is used by Kafka brokers to determine which broker is the leader of a given partition and topic and perform leader elections.
   
  # Kafka Architecture
  
